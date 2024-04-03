@@ -30,7 +30,6 @@ b.1) Os servidores de aplicação geralmente têm políticas e regras de comunid
 b.2) O combate ao conteúdo que destrói reputações, sabidamente falso, é um desafio significativo para os servidores de aplicação. Embora muitas plataformas tenham políticas contra desinformação e fake news, identificar e remover conteúdo falso pode ser complexo devido à natureza dinâmica da informação na internet. Além disso, há preocupações com a censura e a liberdade de expressão. Portanto, os servidores de aplicação precisam equilibrar a moderação de conteúdo com a proteção da liberdade de expressão, enquanto implementam políticas e tecnologias para combater a disseminação de informações falsas.
 
 11.
-
 a) As estruturas de repetição em Python são o "for" e o "while".
 b) Os blocos de comando em Python são definidos por meio de indentação, utilizando espaços ou tabulações no início de cada linha de código. As instruções que fazem parte do mesmo bloco devem ter a mesma indentação.
 c) As duas principais operações realizadas pelo operador "+" em Python são a concatenação de strings e a adição de números. A concatenação de strings une duas ou mais strings, enquanto a adição de números realiza a soma aritmética.
