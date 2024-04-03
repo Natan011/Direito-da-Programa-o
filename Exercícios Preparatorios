@@ -34,7 +34,7 @@ a) As estruturas de repetição em Python são o "for" e o "while".
 b) Os blocos de comando em Python são definidos por meio de indentação, utilizando espaços ou tabulações no início de cada linha de código. As instruções que fazem parte do mesmo bloco devem ter a mesma indentação.
 c) As duas principais operações realizadas pelo operador "+" em Python são a concatenação de strings e a adição de números. A concatenação de strings une duas ou mais strings, enquanto a adição de números realiza a soma aritmética.
 d) Uma função em Python é um bloco de código reutilizável que realiza uma tarefa específica. Ela pode receber argumentos como entrada, realizar operações com esses argumentos e retornar um resultado.
-e) Para definir uma função em Python, utilizamos a palavra-chave "def", seguida pelo nome da função e seus parâmetros entre parênteses. O corpo da função é indentado e contém as instruções a serem executadas. Por exemplo:
+e) Para definir uma função em Python, utilizamos a palavra-chave "def", seguida pelo nome da função e seus parâmetros entre parênteses, : . O corpo da função é indentado e contém as instruções a serem executadas. Por exemplo:
 
 def soma(a, b):
     return a + b
